@@ -1,2 +1,2 @@
 # weather
-Geolocation Weather Reporter lagamma.github.io/weather
+Geolocation Weather Reporter https://lagamma.github.io/weather/
